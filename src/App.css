@@ -21,7 +21,7 @@ body {
 
 .calculator-header {
   width: 100%;
-  background: #a9a9a9;
+  background: #7e7e7e;
   padding: 20px 6px;
   font-size: 24px;
   font-weight: 600;
@@ -39,10 +39,10 @@ body {
 .item {
   display: inline-block;
   width: 100%;
-  background: #f3f3f3;
+  background: #eaeaea;
   padding: 20px 6px;
-  font-size: 24px;
-  font-weight: 500;
+  font-size: 20px;
+  font-weight: 600;
   color: #000;
   border: 1.5px solid #d7d7d7;
   text-align: center;
@@ -62,6 +62,5 @@ body {
 .item-substruct,
 .item-add,
 .item-equal {
-  background: #f48f01;
-  color: #fff;
+  background: #f98232;
 }

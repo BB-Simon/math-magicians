@@ -11,7 +11,7 @@ const Calculator = () => (
         <Button
           key={name}
           className={`item item-${name}`}
-          title={char}
+          title={char.toString()}
         />
       ))}
     </div>
