@@ -55,11 +55,8 @@
 
 ### Key Features <a name="key-features"></a>
 - **[Create react app by create-react-app]**
-- **[Set up git-flow]**
-- **[Set up GitHub flow]**
-- **[Set up eslint]**
-- **[Set up stylelint]**
-- **[Set up babel]**
+- **[Add button component]**
+- **[Add calculator component]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
