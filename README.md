@@ -55,22 +55,8 @@
 
 ### Key Features <a name="key-features"></a>
 - **[Create react app by create-react-app]**
-- **[Set up git-flow]**
-- **[Set up GitHub flow]**
-- **[Set up eslint]**
-- **[Set up stylelint]**
-- **[Set up babel]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](comming soon)
-
-## Loom Video <a name="loom"></a>
-- [Video Link](comming soon)
+- **[Add button component]**
+- **[Add calculator component]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
