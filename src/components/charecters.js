@@ -12,19 +12,19 @@ const charecters = [
     name: 'remainder',
   },
   {
-    char: '/',
+    char: '÷',
     name: 'divider',
   },
   {
-    char: 7,
+    char: '7',
     name: 'seven',
   },
   {
-    char: 8,
+    char: '8',
     name: 'eight',
   },
   {
-    char: 9,
+    char: '9',
     name: 'nine',
   },
   {
@@ -32,15 +32,15 @@ const charecters = [
     name: 'multiply',
   },
   {
-    char: 4,
+    char: '4',
     name: 'four',
   },
   {
-    char: 5,
+    char: '5',
     name: 'five',
   },
   {
-    char: 6,
+    char: '6',
     name: 'six',
   },
   {
@@ -48,15 +48,15 @@ const charecters = [
     name: 'substruct',
   },
   {
-    char: 1,
+    char: '1',
     name: 'one',
   },
   {
-    char: 2,
+    char: '2',
     name: 'two',
   },
   {
-    char: 3,
+    char: '3',
     name: 'three',
   },
   {
@@ -64,7 +64,7 @@ const charecters = [
     name: 'add',
   },
   {
-    char: 0,
+    char: '0',
     name: 'zero',
   },
   {
