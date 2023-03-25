@@ -59,6 +59,8 @@
 - **[Add calculator component]**
 - **[Add big.js]**
 - **[Add calculate function to make the calculation works correctly]**
+- **[Get quotes from API Ninjas Quotes API]**
+- **[Add Quote Component]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
