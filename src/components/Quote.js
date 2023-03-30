@@ -31,9 +31,9 @@ const Quote = () => {
       {loading ? <p>Quote is loading...!</p> : null}
       {error ? <p>Error oqurred while fetching quote, please reload the page agin:(</p> : null}
       {!loading && !error ? (
-        <div className="quotes-wrapper">
-          <h1>Quotes</h1>
-          <p>{`${quotes[0]?.quote} __ by ${quotes[0]?.author}`}</p>
+        <div>
+          <h1 className="title">Quotes</h1>
+          <p className="description">{`${quotes[0]?.quote} __ by ${quotes[0]?.author}`}</p>
         </div>
       ) : null}
     </div>

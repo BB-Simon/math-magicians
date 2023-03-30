@@ -61,6 +61,10 @@
 - **[Add calculate function to make the calculation works correctly]**
 - **[Get quotes from API Ninjas Quotes API]**
 - **[Add Quote Component]**
+- **[Add React routes ]**
+- **[Add Home page]**
+- **[Add Calculator page]**
+- **[Add Quote page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
