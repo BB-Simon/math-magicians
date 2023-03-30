@@ -6,10 +6,10 @@ import {
   Routes,
 } from 'react-router-dom';
 import './App.css';
-import Calculator from './components/Calculator';
-import Home from './components/Home';
 import Navigation from './components/Navigation';
-import Quote from './components/Quote';
+import CalculatorPage from './pages/CalculatorPage';
+import HomePage from './pages/HomePage';
+import QuotePage from './pages/QuotePage';
 
 const Layout = () => (
   <main>
@@ -23,9 +23,9 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route element={<Layout />}>
-          <Route path="/" element={<Home />} />
-          <Route path="/calculator" element={<Calculator />} />
-          <Route path="/quote" element={<Quote />} />
+          <Route path="/" element={<HomePage />} />
+          <Route path="/calculator" element={<CalculatorPage />} />
+          <Route path="/quote" element={<QuotePage />} />
         </Route>
       </Routes>
     </BrowserRouter>
