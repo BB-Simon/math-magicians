@@ -24,6 +24,12 @@ body {
   justify-content: space-between;
 }
 
+.link {
+  font-size: 24px;
+  color: #f3f3f3;
+  text-decoration: none;
+}
+
 .nav-item {
   display: flex;
   align-items: center;
@@ -32,6 +38,12 @@ body {
 .nav-item li {
   list-style: none;
   padding-left: 24px;
+}
+
+.active {
+  font-size: 24px;
+  color: #f3f3f3;
+  text-decoration: underline;
 }
 
 .calculator-container {
