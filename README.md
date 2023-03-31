@@ -65,6 +65,7 @@
 - **[Add Home page]**
 - **[Add Calculator page]**
 - **[Add Quote page]**
+- **[Add Tests using Jest and react testing libary to all pages and component and methods]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
