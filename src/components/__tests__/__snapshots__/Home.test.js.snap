@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite renders correctly 1`] = `
+<div
+  className="home-page-container"
+>
+  <h1
+    className="title"
+  >
+    Welcome to our page!
+  </h1>
+  <p
+    className="description"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem omnis harum incidunt error blanditiis, exercitationem provident doloremque odio rem modi minima, aperiam magni quas praesentium mollitia dolor ex repellendus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem omnis harum incidunt error blanditiis, exercitationem provident doloremque odio rem modi minima, aperiam magni quas praesentium mollitia dolor ex repellendus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem omnis harum incidunt error blanditiis, exercitationem provident doloremque.
+  </p>
+  <p
+    className="description"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem omnis harum incidunt error blanditiis, exercitationem provident doloremque odio rem modi minima, aperiam magni quas praesentium mollitia dolor ex repellendus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem omnis harum incidunt error blanditiis, exercitationem provident doloremque odio rem modi minima, aperiam magni quas praesentium mollitia dolor ex repellendus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus dolorem omnis harum incidunt error blanditiis, exercitationem provident doloremque.
+  </p>
+</div>
+`;
